@@ -1,7 +1,3 @@
-# Animate-Your-Name
-In this project, we'll write a program that animates your name. When you move your mouse over your name, bubbles will scatter away and then reassemble.
-
-
 var myName = "Showeb Arif";
 
 var red = [0, 100, 63];
